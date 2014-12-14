@@ -1,0 +1,11 @@
+[
+    {
+	"hello": "World",
+	"pop": 6.916e9,
+	"source": "http://en.wikipedia.org/wiki/World_population"
+    },
+    {
+	"pop": 1649519,
+	"hello": "Montr\u00e9al"
+    }
+]
